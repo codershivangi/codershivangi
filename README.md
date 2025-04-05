@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivangi/Codershivangi/raw/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
 <h3 align="center">A Passionate Software Engineering from India</h3>
 
