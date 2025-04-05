@@ -16,4 +16,4 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 -LinkedIn Profile:https://www.linkedin.com/in/shivangi-thakur-4ba4ab30a
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataSorcerer08&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codershivangishow_icons=true&theme=radical)
