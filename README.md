@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💙 Data Engineering • Software Developer
+💙 Data Engineer • Software Developer
 </h3>
 
 <p align="center">
