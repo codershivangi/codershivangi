@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;Data+Science;Software+Engineer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Python+Developer;Data+Science;Software+Engineer" />
 
 </p>
 
