@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💙 AI Engineer • Machine Learning Enthusiast • Software Developer
+💙 Data Engineering • Software Developer
 </h3>
 
 <p align="center">
