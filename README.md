@@ -19,10 +19,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE (AI)
-- 🤖 Passionate about AI & Machine Learning
+- 🤖 Passionate about Artificial Intelligence
 - 🌱 Currently learning
   - Agentic AI
-  - Deep Learning
   - Data Engineering
 - 💻 Love building AI applications
 - 📫 Email:
